@@ -935,6 +935,12 @@ to explore life. Also, Python and Django Developer
 -Bio: Student,Web Developer
 -GitHub: [harshil1712](https://github.com/harshil1712)
 
+
+#### Name: [Harsh Shah](https://github.com/Harsh-0986)
+
+- Place: Surat, Gujarat, India
+- Bio: Student, Fullstack developer
+- GitHub: [Harsh-0986](https;//github.com/Harsh-0986)
 #### Name: [Hassan Sani](https://github.com/inidaname)
 - Place: Bida, Niger State, Nigeria
 - Bio: Web Developer at @ADPNigeria
